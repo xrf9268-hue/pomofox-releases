@@ -3,6 +3,15 @@
     <channel>
         <title>PomoFox</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Wed, 08 Jul 2026 10:00:51 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/xrf9268-hue/pomofox-releases/releases/download/v1.7.1/PomoFox-1.7.1.dmg" length="54121411" type="application/octet-stream" sparkle:edSignature="KL/e0+xJutfsO/cnM/zG3h5GVInFZmdr39n8LwHRwP1pMmQCgMbt8ys3d/k56OpcqAdFKSI61Bfv40q9WW/9AQ=="/>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Wed, 08 Jul 2026 09:39:06 +0000</pubDate>
             <sparkle:version>18</sparkle:version>
